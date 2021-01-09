@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>weather_report</name>
+  <name>real_chick</name>
   <version>0.0.0</version>
-  <description>The weather_report package</description>
+  <description>The real_chick package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/weather_report</url> -->
+  <!-- <url type="website">http://wiki.ros.org/real_chick</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
