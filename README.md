@@ -31,4 +31,4 @@ $ rosrun real_chick piyo.py
 $ rosrun image_view image_view image:=/piyopiyo_image
 ```
 # ライセンス
-BSD 3-Clause License
+[BSD 3-Clause License]
