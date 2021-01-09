@@ -6,3 +6,9 @@
   - OpenCV 3.2.0
   - webカメラ
 # 環境構築
+```bash
+$ cd ~/catkin_ws/src
+$ git clone https://github.com/k-Ryunosuke/robot-system.git
+```
+# ライセンス
+BSD 3-Clause License
