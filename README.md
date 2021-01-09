@@ -18,10 +18,17 @@ $ cd real_chick
 ```bash
 $ roscore
 ```
+- 新しく端末を開く
+```bash
+$ rosrun usb_cam usb_cam_node
+```
 - もう一つ端末を開く
 ```bash
-$ cd ~/piyopiyo/scripts
-$ rosrun piyopiyo
+$ rosrun real_chick piyo.py
+```
+- もう一つ端末を開く
+```bash
+$ rosrun image_view image_view image:=/piyopiyo_image
 ```
 # ライセンス
 BSD 3-Clause License
