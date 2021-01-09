@@ -5,10 +5,23 @@
   - ROS Melodic
   - OpenCV 3.2.0
   - webカメラ
-# 環境構築
+# インストール方法
 ```bash
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/k-Ryunosuke/real_chick.git
+```
+# 実行方法
+```bash
+$ cd real_chick
+```
+- roscoreを立ち上げる
+```bash
+$ roscore
+```
+- もう一つ端末を開く
+```bash
+$ cd ~/piyopiyo/scripts
+$ rosrun piyopiyo
 ```
 # ライセンス
 BSD 3-Clause License
