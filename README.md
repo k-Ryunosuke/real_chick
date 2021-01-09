@@ -8,7 +8,7 @@
 # 環境構築
 ```bash
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/k-Ryunosuke/robot-system.git
+$ git clone https://github.com/k-Ryunosuke/real_chick.git
 ```
 # ライセンス
 BSD 3-Clause License
