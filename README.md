@@ -5,6 +5,7 @@
   - ROS Melodic
   - OpenCV 3.2.0
   - webカメラ
+   - [使用したカメラ](https://www.amazon.co.jp/-/en/Microphone-Connection-Recording-Meetings-Computer/dp/B08GY7S8F4)
 # インストール方法
 ```bash
 $ cd ~/catkin_ws/src
