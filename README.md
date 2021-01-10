@@ -4,8 +4,7 @@
   - Ubuntu 18.04.5 LTS
   - ROS Melodic
   - OpenCV 3.2.0
-  - webカメラ
-    - [使用したカメラ](https://www.amazon.co.jp/-/en/Microphone-Connection-Recording-Meetings-Computer/dp/B08GY7S8F4)
+  - webカメラ[(使用したカメラ)](https://www.amazon.co.jp/-/en/Microphone-Connection-Recording-Meetings-Computer/dp/B08GY7S8F4)
 # インストール方法
 ```bash
 $ cd ~/catkin_ws/src
@@ -32,6 +31,7 @@ $ rosrun real_chick piyo.py
 $ rosrun image_view image_view image:=/piyopiyo_image
 ```
 # 実行動画
+画像をクリック後動画が再生されます
 [![LED](https://img.youtube.com/vi/s91JeVQiqtY/maxresdefault.jpg)](https://youtu.be/s91JeVQiqtY)
 # ライセンス
 [BSD 3-Clause License](https://github.com/k-Ryunosuke/real_chick/blob/master/LICENSE)
