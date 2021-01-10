@@ -31,5 +31,7 @@ $ rosrun real_chick piyo.py
 ```bash
 $ rosrun image_view image_view image:=/piyopiyo_image
 ```
+# 実行動画
+https://youtu.be/s91JeVQiqtY
 # ライセンス
 [BSD 3-Clause License](https://github.com/k-Ryunosuke/real_chick/blob/master/LICENSE)
