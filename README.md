@@ -1,5 +1,6 @@
 # real_chick
-おもちゃのひよこを判別しPIYOPIYOと表記させます。  
+# 概要
+おもちゃのひよこを判別します。ひよこと判別した場合にはPIYOPIYOと表記します。
 # 動作環境
   - Ubuntu 18.04.5 LTS
   - ROS Melodic
