@@ -32,7 +32,6 @@ $ rosrun real_chick piyo.py
 $ rosrun image_view image_view image:=/piyopiyo_image
 ```
 # 実行動画
-https://img.youtube.com/vi/s91JeVQiqtY/maxresdefault.jpg
-https://youtu.be/s91JeVQiqtY
+[https://img.youtube.com/vi/s91JeVQiqtY/maxresdefault.jpg](https://youtu.be/s91JeVQiqtY)
 # ライセンス
 [BSD 3-Clause License](https://github.com/k-Ryunosuke/real_chick/blob/master/LICENSE)
